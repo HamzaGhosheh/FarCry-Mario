@@ -1,5 +1,7 @@
 3 March 2023
 
+Description: This program is a far cry from the original game, but the goal remains the same – defeat Bowser and save the princess. The game simulation is carried out in a world that consists of a fixed number of levels. Mario must navigate the levels, encountering enemies and power ups, and collecting coins, before engaging a boss to move onto the next level. 
+
 All running files: Level.cpp, Level..h,  Mario.cpp, Mario.h, Gameplay.cpp, Gameplay.h, FileProcessor.cpp, FileProcessor.h,
 Goomba.cpp, Goomba.h, Koopa.cpp, Koopa.h, Boss.cpp, Boss.h, WarpPipe.cpp, WarpPipe.h, spec.txt, log.txt
 
